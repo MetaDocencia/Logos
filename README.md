@@ -13,6 +13,7 @@ Tenemos 3 diseños principales:
 - Y por supuesto el hexágono en [png](https://github.com/MetaDocencia/Logos/blob/master/hex.png) y [svg](https://github.com/MetaDocencia/Logos/blob/master/hex.svg).
 
 ![](https://github.com/MetaDocencia/Logos/blob/master/hex.png)
+![](https://github.com/MetaDocencia/Logos/blob/master/hex_url.png)
 
 Nuestros logos usan los diseños de [Stokio](https://www.stockio.com/free-vector/online-conference)
 
