@@ -17,6 +17,6 @@ Tenemos 3 diseños principales:
 
 Nuestros logos usan los diseños de [Stokio](https://www.stockio.com/free-vector/online-conference)
 
-El color principal de nuestra página web es [#C83737](https://www.colorhexa.com/c83737)
+El color principal de nuestra página web es [#C83737](https://www.colorhexa.com/c83737) y usamos #EFEFEF como fondo en algunos casos para mantener un contraste adecuado.
 
 
