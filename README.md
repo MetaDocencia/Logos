@@ -23,7 +23,7 @@ Nuestros logos originales usan los diseños de [Stokio](https://www.stockio.com/
 
 Versiones vertical y horizontal en formato [JPG](https://github.com/MetaDocencia/Logos/blob/master/logo/logo_vertical_y_horizontal.jpg), [PNG](https://github.com/MetaDocencia/Logos/blob/master/logo/logo_vertical_y_horizontal.png) y [SVG](https://github.com/MetaDocencia/Logos/blob/master/logo/logo_vertical_y_horizontal.svg).
 
-![](https://github.com/MetaDocencia/Logos/blob/master/logo/logo_vertical_y_horizontal.svg)
+![](https://github.com/MetaDocencia/Logos/blob/master/logo/logo_vertical_y_horizontal.jpg)
 
 
 ### Plantillas 
