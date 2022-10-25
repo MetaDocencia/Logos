@@ -25,7 +25,6 @@ Versiones original en formato [JPG](https://github.com/MetaDocencia/Logos/blob/m
 
 ![](https://github.com/MetaDocencia/Logos/blob/master/logo_actualizado/MD_original.jpg)
 
-
 ### Colores
 
 Los colores del logo son:
@@ -38,4 +37,3 @@ Naranja: R:247 G:123 B:32, #F77B20
 
 El color principal de nuestra página web es [#C83737](https://www.colorhexa.com/c83737) y usamos #EFEFEF como fondo en algunos casos para 
 mantener un contraste adecuado.
-
