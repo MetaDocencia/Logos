@@ -23,7 +23,7 @@ Nuestros logos originales usan los diseños de [Stokio](https://www.stockio.com/
 
 Versiones original en formato [JPG](https://github.com/MetaDocencia/Logos/blob/master/logo_actualizado/MD_original.jpg), [PNG](https://github.com/MetaDocencia/Logos/blob/master/logo_actualizado/MD_original.png)
 
-![](https://github.com/MetaDocencia/Logos/blob/master/logo_actualizado/MD_original.jpg)
+![](https://github.com/MetaDocencia/Logos/blob/master/logo_actualizado/MD_original.png?raw=true)
 
 ### Colores
 
