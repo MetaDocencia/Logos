@@ -42,7 +42,7 @@ El detalle con los valores CMYK y RGB, las reglas de contraste y las pautas de u
 - Usar un fondo que no ofrece contraste suficiente
 - Deformar, rotar o inclinar el logo
 - Aplicar sombras, degradados, contornos u otros efectos
-- Rehacerlo escribiendo el nombre con una tipografía cualquiera
+- Rehacerlo escribiendo el nombre con otra tipografía
 
 ## Historia de nuestra identidad
 
